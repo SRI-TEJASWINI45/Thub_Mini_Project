@@ -2,7 +2,7 @@
 
 An intelligent web application designed to streamline and automate identity document verification, tampering detection, and data extraction.
 
-🔗 **Live Demo:** [https://docscreen-ai-identit-15ua.bolt.host](https://docscreen-ai-identit-15ua.bolt.host)
+🔗 **Live Demo:** [[https://docscreen-ai-identit-15ua.bolt.host](https://docscreen-ai-identit-15ua.bolt.host)](https://doc-screen-ai.vercel.app/login)
 
 ---
 
